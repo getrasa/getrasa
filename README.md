@@ -1,5 +1,5 @@
 ### Hi there 👋
-Did you know that the longest word in the English language, according to the Guinness Book of World Records, is pneumonoultramicroscopicsilicovolcanoconiosis? 🤔
+
 
 <!--
 **getrasa/getrasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
